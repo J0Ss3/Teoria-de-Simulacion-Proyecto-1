@@ -1,4 +1,4 @@
-# Teoria-de-Simulacion-Proyecto-1
+# Teoria-de-Simulacion-Proyecto
 
 ## Integrantes
 
